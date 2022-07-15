@@ -437,7 +437,7 @@ function CreateListing() {
                             required
                         />
                         {type === 'rent' && (
-                            <p className='formPriceText'>$ / Month</p>
+                            <p className='formPriceText'>RM / Month</p>
                         )}
                     </div>
 
